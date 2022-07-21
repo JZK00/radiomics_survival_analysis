@@ -1,1 +1,1 @@
-## The codes for the US-Radiomics for survival analysis.
+## The codes of the US-Radiomics for survival analysis.
