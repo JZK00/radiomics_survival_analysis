@@ -1,0 +1,1 @@
+After joining the external validation group, the overall study was regrouped into: training group, internal validation, and external validation group. The basic method is the same as before, with relevant results updated. Here are a few updated application examples.
